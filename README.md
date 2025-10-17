@@ -22,11 +22,10 @@ The goal is to identify **inefficiencies in corridor operations**, evaluate **ro
 
 ## 3. Technologies Used
 - **Programming Language:** Python (Pandas, NumPy, Matplotlib, Plotly, Seaborn)
-- **Visualization Tools:** Looker Studio (Google Data Studio)
+- **Visualization Tools:** Looker Studio
 - **Development Environment:** Jupyter Notebook
 - **Version Control:** Git & GitHub
 - **File Format:** CSV (raw and cleaned datasets)
-- **Documentation:** Markdown, MS Word
 
 ---
 
