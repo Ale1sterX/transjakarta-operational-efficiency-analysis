@@ -30,10 +30,10 @@ The goal is to identify **inefficiencies in corridor operations**, evaluate **ro
 ---
 
 ## 4. Project Structure
-README.md <- Project documentation and overview.
-Transjakarta.csv <- Original dataset
-transjakarta_trip_summary_clean.csv <- Processed and feature-engineered data
-Transjakarta_Operational_Efficiency_Analysis.ipynb <- Main analysis notebook
+- **README.md** <- Project documentation and overview.
+- **Transjakarta.csv** <- Original dataset
+- **transjakarta_trip_summary_clean.csv** <- Processed and feature-engineered data
+- **Transjakarta_Operational_Efficiency_Analysis.ipynb** <- Main analysis notebook
 ---
 
 ## 5. Summary of Findings
